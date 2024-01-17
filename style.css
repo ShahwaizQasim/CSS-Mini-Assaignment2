@@ -1,0 +1,18 @@
+body{
+    background-color: #ccc;
+}
+h1{
+    background-color: pink;
+    color: darkred;
+}
+.pra{
+    color: #666;
+}
+h3 > ul > li >a{
+    color: green;
+    background-color: beige;
+}
+.pra2{
+    color: darkgoldenrod;
+    background-color: beige;
+}
